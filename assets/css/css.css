@@ -1,0 +1,35 @@
+.Titulo{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    padding-top: 30px;
+    background-color: #16C46A;
+    padding: 50px;
+}
+
+.Subtitulo{
+    text-align: center ;
+    color: rgb(65, 65, 65);
+    font-size: 20px;
+    padding: 20px;
+}
+
+.hr{
+    margin: 60px;
+}
+
+.Sistemas-Titulos{
+    padding: 40px;
+}
+
+.Sistemas-Info{
+    padding: 30px;
+    font-size: 15px;
+    color: rgb(65, 65, 65);
+}
+
+.Footer{
+    text-align: center;
+    font-size: 15px;
+    padding: 50px;
+}
